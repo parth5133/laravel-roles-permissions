@@ -7,6 +7,7 @@ A project which manage Role, Permissions and every actions of your Laravel appli
 Demo: http://localhost:8000
 
 Username - superadmin
+
 password - 12345678
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
